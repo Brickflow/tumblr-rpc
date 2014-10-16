@@ -1,0 +1,16 @@
+{
+  "name": "tumblr-rpc",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/tumblr-rpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laci Szucs <ifrozen@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "amqp-rpc": "0.0.8",
+    "lodash": "^2.4.1",
+    "tumblr-pool.js": "git://github.com/Brickflow/tumblr-pool.js"
+  }
+}
