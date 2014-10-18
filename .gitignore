@@ -3,3 +3,4 @@ atlassian-ide-plugin.xml
 send.js
 run.js
 node_modules
+config/local.json
