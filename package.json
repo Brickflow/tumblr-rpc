@@ -1,6 +1,6 @@
 {
   "name": "tumblr-rpc",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "lib/tumblr-rpc.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Laci Szucs <ifrozen@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "amqp-rpc": "0.0.8",
+    "amqp-rpc": "git://github.com:ifroz/node-amqp-rpc.git",
     "lodash": "^2.4.1",
     "tumblr-pool.js": "git://github.com/Brickflow/tumblr-pool.js"
   }
